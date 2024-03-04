@@ -1,7 +1,47 @@
+<!-- sidebar.html -->
 <!-- The Side Bar -->
+{% comment %} <link rel="stylesheet" href="../assets/css/style.scss"> {% endcomment %}
+
+<style>
+  .profile-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .profile-wrapper > * {
+    transform: translateX(-10px);
+  }
+
+  .sidebar-bottom {
+    transform: translateX(45px);
+  }
+
+  #avatar {
+    width: 170px !important;
+    height: 170px !important;
+
+    position: relative;
+    top: 10%;
+    left: -7%;
+    transform: translate(-50%, -50%);
+    margin-bottom: 20px;
+  }
+
+  .rounded-circle img {
+    width: 100%;
+    height: auto;
+  }
+</style>
 
 <aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end">
   <header class="profile-wrapper">
+    <h1 class="site-title">
+      <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    </h1>
+    <p class="site-subtitle fst-italic mb-0">{{ site.tagline }}</p>
+
     <a href="{{ '/' | relative_url }}" id="avatar" class="rounded-circle">
       {%- if site.avatar != empty and site.avatar -%}
         {%- capture avatar_url -%}
@@ -10,11 +50,6 @@
         <img src="{{- avatar_url -}}" width="112" height="112" alt="avatar" onerror="this.style.display='none'">
       {%- endif -%}
     </a>
-
-    <h1 class="site-title">
-      <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
-    </h1>
-    <p class="site-subtitle fst-italic mb-0">{{ site.tagline }}</p>
   </header>
   <!-- .profile-wrapper -->
 
@@ -55,17 +90,17 @@
 
     {% for entry in site.data.contact %}
       {% case entry.type %}
-        {% when 'github', 'twitter' %}
+        {% when 'github' %}
           {%- capture url -%}
             https://{{ entry.type }}.com/{{ site[entry.type].username }}
           {%- endcapture -%}
+
         {% when 'email' %}
           {% assign email = site.social.email | split: '@' %}
           {%- capture url -%}
             javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')
           {%- endcapture -%}
-        {% when 'rss' %}
-          {% assign url = '/feed.xml' | relative_url %}
+
         {% else %}
           {% assign url = entry.url %}
       {% endcase %}
