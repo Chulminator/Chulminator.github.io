@@ -4,3 +4,34 @@
 @import 'main';
 
 /* append your custom style below */
+
+.profile-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.profile-wrapper > * {
+  transform: translateX(-10px);
+}
+
+.sidebar-bottom {
+  transform: translateX(45px);
+}
+
+#avatar {
+  width: 170px !important;
+  height: 170px !important;
+
+  position: relative;
+  top: 10%;
+  left: -7%;
+  transform: translate(-50%, -50%);
+  margin-bottom: 20px;
+}
+
+.rounded-circle img {
+  width: 100%;
+  height: auto;
+}
