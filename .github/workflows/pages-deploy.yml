@@ -1,14 +1,13 @@
-name: "Build and Deploy"
-on:
-  push:
-    branches:
-      - main
-      - master
-    paths-ignore:
-      - .gitignore
-      - README.md
-      - LICENSE
-
+name: 'Automatic build'
+ on:
+ push:
+     branches:
+     - main          # 이 부분을 꼭 master에서 main으로 수정해줍니다.
+     paths-ignore:
+     - .gitignore
+     - README.md
+     - LICENSE
+     
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
