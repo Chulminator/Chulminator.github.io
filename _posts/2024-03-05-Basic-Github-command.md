@@ -37,9 +37,7 @@ git push [remote] [branch]
 ```
 {: file='Git Bash'}
 
-This command adds the specified [file] for committing. If you replace [file] with a period (.) as in the second line, it will stage all changes. Once added, commit the files with the provided message.
-
-You can replace [message] with a brief note describing the changes included in the commit for the benefit of other collaborators and yourself in the future.
+This command adds the specified [file] for committing. If you replace [file] with a period (.) as in the second line, it will stage all changes. Once added, commit the files with the provided message. You can replace [message] with a brief note describing the changes included in the commit for the benefit of other collaborators and yourself in the future.
 
 Finally, push the changes to the repository. This command pushes changes from your current [branch] branch to the specified [remote] repository. If [remote] is omitted, it defaults to "origin", and if [branch] is omitted, it defaults to "master".
 
