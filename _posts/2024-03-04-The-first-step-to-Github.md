@@ -1,7 +1,7 @@
 ---
 title: The first step to GitHub!
 author: chulmin
-date: 2024-03-04 00:00:00 +0800
+date: 2024-03-04 00:00:00 -0500
 categories: [HOW TO START GITHUB BLOG for beginners, Prerequisites]
 tags: [GitHub, blog, webpage, Git, HTML, Hello World]
 ---

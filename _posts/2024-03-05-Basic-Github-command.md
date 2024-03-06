@@ -1,7 +1,7 @@
 ---
 title: Basic GitHub command
 author: chulmin
-date: 2024-03-05 00:00:00 +0800
+date: 2024-03-05 00:00:00 -0500
 categories: [HOW TO START GITHUB BLOG for beginners, Prerequisites]
 tags: [GitHub, command, clone, commit, push, pull]
 ---

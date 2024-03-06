@@ -1,7 +1,7 @@
 ---
 title: Creating a pretty Github page
 author: chulmin
-date: 2024-03-07 00:00:00 +0800
+date: 2024-03-07 00:00:00 -0500
 categories: [HOW TO START GITHUB BLOG for beginners, Setting up GitHub page]
 tags: [Ruby, Jekyll, GitHub blg, beginner, html, blog, chirpy]
 ---

@@ -1,7 +1,7 @@
 ---
 title: An issue with Chirpy theme on TOC
 author: chulmin
-date: 2024-03-08 00:00:00 +0800
+date: 2024-03-08 00:00:00 -0500
 categories: [HOW TO START GITHUB BLOG for beginners, Setting up GitHub page]
 tags: [Chirpy, TOC, Issue]
 ---
