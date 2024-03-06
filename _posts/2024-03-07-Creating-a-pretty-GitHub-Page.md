@@ -119,6 +119,8 @@ to:
 ```
 {: file='./_include/sidebar.html'}
 
+Finally, you need to rename a file from **.github/workflows/pages-deploy.yml.hook** to **.github/workflows/pages-deploy.yml**. After making this modification, push your changes to git, and your website will be visible to the public within 10-15 minutes.
+
 ## Conclusion
 
 I hope you can successfully create your customized website. If you have any questions, feel free to contact me.
@@ -126,3 +128,4 @@ I hope you can successfully create your customized website. If you have any ques
 
 ## reference
 <https://wlqmffl0102.github.io/categories/github-blog/>
+<https://github.com/cotes2020/jekyll-theme-chirpy/wiki>
