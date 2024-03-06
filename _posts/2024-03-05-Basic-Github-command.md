@@ -45,7 +45,7 @@ Expanding on the concepts of [remote] and [branch], [remote] refers to a version
 
 ___
 
-## Chulminator keeps updating the project on repository.
+## Chulminator keeps updating the project on the repository.
  And you can update the repository on your local computer by
 
 ```bash
