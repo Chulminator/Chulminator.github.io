@@ -119,7 +119,22 @@ to:
 ```
 {: file='./_include/sidebar.html'}
 
-Finally, you need to rename a file from **.github/workflows/pages-deploy.yml.hook** to **.github/workflows/pages-deploy.yml**. After making this modification, push your changes to git, and your website will be visible to the public within 10-15 minutes.
+Finally, you need to rename a file from **.github/workflows/pages-deploy.yml.hook** to **.github/workflows/pages-deploy.yml**. Before pushing your webpage to the GitHub repository, you should modify the first part of **.github/workflows/pages-deploy.yml** as follows:
+```yml
+name: 'Automatic build'
+ on:
+ push:
+     branches:
+     - main          # from master to main
+     paths-ignore:
+     - .gitignore
+     - README.md
+     - LICENSE
+```
+{: file='.github/workflows/pages-deploy.yml'}
+
+Additionally, in the settings tab of your GitHub repository, navigate to the "Pages" section on the left side. Under the "Build and deployment" options, change "Deploy from a branch" to "GitHub Actions". After making this modification, push your changes to git, and your website will be visible to the public within 10-15 minutes.
+
 
 ## Conclusion
 
