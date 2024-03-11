@@ -3,7 +3,7 @@ title: What are Ruby and jekyll?
 author: chulmin
 date: 2024-03-06 00:00:00 -0500
 categories: [HOW TO START GITHUB BLOG for beginners, Prerequisites]
-tags: [Ruby, Jekyll, GitHub blg]
+tags: [Ruby, Jekyll, GitHub blog, blog, page]
 ---
 
 This article is written based on Windows 10.
