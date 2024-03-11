@@ -1,9 +1,9 @@
 ---
-title: How to integral in the computer world
+title: How to integrate in the computer world
 author: chulmin
 date: 2024-03-10 00:00:00 -0500
-categories: [Numerical analysis]
-tags: [Numerical analysis, Numerical integration, simpson, trapezoid, gauss point, Gauss integral, Gauss, integral]
+categories: [Numerical computing]
+tags: [Numerical analysis, Numerical integration, simpson, trapezoid, gauss point, Gauss quadrature, Gauss, integral]
 math: true
 ---
 
@@ -19,7 +19,7 @@ $$
 \end{equation}
 $$
 
-## Trapizoid rule 
+## Trapezoid rule 
 In the computer world, where the concept of limit is not applicable, we substitute the limit with a for loop with a sufficiently large number of iterations. For instance, if we have a function $f(x)$ and wish to divide the desired area into trapezoids, then:
 
 $$

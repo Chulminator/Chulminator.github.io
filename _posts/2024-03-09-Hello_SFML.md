@@ -81,7 +81,7 @@ int main()
 {: file='Hello world'}
 
 
-## compiling SFML
+## Compiling SFML
 
 There are several ways to compile the code, and I use a Makefile for that purpose. It's important to note that you should specify the exact SFML Header file directory in this Makefile, and some *.dll files should be in the same directory as the Makefile. As the code becomes more complex, you can create an "include" directory and place source and header files there.
 
