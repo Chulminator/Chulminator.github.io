@@ -50,7 +50,7 @@ $$
 \end{equation}
 $$
 
-One notes that  when formulating the rule, the interval is typically defined between \[-1,1\]. In Simpson's rule, the corresponding coefficients $A$, $B$, and $C$ are set as 1/3, 4/3, 1/3 respectively. Notably, in Simpson's rule, the midpoint is four times more influential than the boundaries. 
+One notes that when formulating the rule, the interval is typically defined between \[-1,1\]. In Simpson's rule, the corresponding coefficients $A$, $B$, and $C$ are set as 1/3, 4/3, 1/3 respectively. Notably, in Simpson's rule, the midpoint is four times more influential than the boundaries. 
 
 To determine these coefficients, one can establish three equations using the basis of each order: $f(x)=1$, $f(x)=x$, and $f(x)=x^2$. The sum of the coefficents should always be 2, as the interval length is 2.
 

@@ -92,10 +92,9 @@ To compile the files, you can use the command 'MinGW32-make'. To remove the gene
 ├── include
 ├── Media
 │   ├── TIMES.TTF
-├── Media
-│   └── src
-│       └── lib
-│           └── *.a
+├── src
+│   └── lib
+│       └── *.a
 ├── main.cpp
 ├── Makefile
 ├── openal32.dll
