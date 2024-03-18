@@ -6,7 +6,7 @@ categories: [SFML]
 tags: [SFML, game, 2D, class]
 ---
 
-
+This post is specifically targeting Windows 10 users.
 
 ## Advatange of stucturing with class
 
