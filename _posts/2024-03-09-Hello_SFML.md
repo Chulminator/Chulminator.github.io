@@ -2,7 +2,7 @@
 title: Hello SFML
 author: chulmin
 date: 2024-03-09 00:00:00 -0500
-categories: [SFML]
+categories: [SFML, Introduction]
 tags: [SFML, game, 2D, development, compile, hello world]
 ---
 
