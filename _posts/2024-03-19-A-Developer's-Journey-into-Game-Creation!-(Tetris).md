@@ -9,7 +9,7 @@ tags: [SFML, game, 2D, Tetris]
 For my upcoming series of posts, I will be documenting the process of developing the "Tetris" game from start to finish. Although these posts were not written in real-time during the development process, I have made an effort to capture my thoughts and considerations at each stage. Join me on this journey as I share the insights and challenges encountered while bringing this classic game to life.
 
 
-## Copyright of tetris
+## Copyright of Tetris
 My initial concern was whether it is legally permissible to mimic the original game Tetris and share it publicly. While this is merely an exercise, addressing this question is crucial as similar issues may arise with various elements such as photos, sounds, and games themselves.
 
 
