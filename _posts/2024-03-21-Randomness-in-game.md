@@ -66,7 +66,7 @@ void TetrisBlock::createBlock(){
 		blockType = static_cast<BlockType>(dist(mt));
     
     // more 
-}
+} 
 ```
 {: file='TetrisBlock::createBlock-error'}
 
