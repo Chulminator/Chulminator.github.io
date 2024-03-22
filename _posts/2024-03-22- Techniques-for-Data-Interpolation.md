@@ -8,7 +8,7 @@ math: true
 ---
 
 
-We possess temperature data recorded throughout a day, from midnight to midnight the following day. Suppose we seek to estimate the temperature at any given time between these data points. What approach would be most appropriate for estimating the temperature, let's say, at 3:00 PM A straightforward method might involve drawing a linear line between the recorded temperatures at 2:00 PM and 4:00 PM, and then determining the temperature corresponding $to x=3$. Interpolation and spline techniques offer systematic methodologies for making such estimates within the data range.
+We possess temperature data recorded throughout a day, from midnight to midnight the following day. Suppose we seek to estimate the temperature at any given time between these data points. What approach would be most appropriate for estimating the temperature, let's say, at 3:00 PM A straightforward method might involve drawing a linear line between the recorded temperatures at 2:00 PM and 4:00 PM, and then determining the temperature corresponding to $x=3$. Interpolation and spline techniques offer systematic methodologies for making such estimates within the data range.
 
 ## Problem definition
 Let's say the following temperature data is the temperature recored around equator on Mars. 
