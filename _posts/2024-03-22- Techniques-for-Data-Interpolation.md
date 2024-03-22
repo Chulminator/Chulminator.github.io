@@ -26,7 +26,7 @@ To define a unique linear function, you need two points, and to define a unique 
 
 $$
 \begin{equation}
-  p_n(x) = \sum_{i=1}^n l_i(x)*y_i
+  p_n(x) = \sum_{i=1}^n l_i(x)y_i
   \label{eq:interpolation polynomial}
 \end{equation}
 $$
