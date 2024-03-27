@@ -14,12 +14,11 @@ The dual nature of fun and difficulty in numerical analysis stems from the fact 
 
 
 ## Floating-point representation.
-Normalized scientific notation is used to represent real numbers. For instance, in the normalized scientific notation, $7423.51239$ is expressed as $0.7 42351239\times 10^4 $ and $0.0231906$ is represented as $0.231906 \times 10^{-1}$. In sum, a real number $x$ is represented as
+Normalized scientific notation is used to represent real numbers. For instance, in the normalized scientific notation, $7423.51239$ is expressed as $0.7 42351239\times 10^4 $ and $0.0231906$ is represented as $0.231906 \times 10^{-1}$. In sum, a real number $$x$$ is represented as
 
 $$ 
 \begin{equation}
   x = \pm r \times 10^n = \pm d_1 d_2 d_3 \cdots \times 10^n
-  % x = \pm d_1 d_2 d_3 \cdots \times 10^n
   \label{eq:normalized scientific notation}
 \end{equation}
 $$
