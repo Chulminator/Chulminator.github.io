@@ -130,6 +130,7 @@ And the corresponding output is
 False
 True
 ```
+{: file='result'}
 
 The first value represents the machine epsilon in single precision, which is equivalent to $1/2^{23}$. The second line details this value. The third value denotes the machine epsilon in double precision, which corresponds to $1/2^{52}$, as shown in the fourth line. The fifth line demonstrates that adding the machine epsilon to $1.0$ yields a result different from $1.0$. Moreover, the sixth line illustrates that adding a number smaller than the machine epsilon does not impact the result of the operation. Furthermore, it is worth noting that Python employs double precision by default.
 
