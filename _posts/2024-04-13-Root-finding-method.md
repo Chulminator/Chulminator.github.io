@@ -266,11 +266,3 @@ $$
   \label{eq:p norm}
 \end{equation}
 $$
-
-
-
-## Reference
-[Wikipedia-Machine epsilon](https://en.wikipedia.org/wiki/Machine_epsilon)<br>
-[Wikipedia-Single-precision floating-point format](https://en.wikipedia.org/wiki/Single-precision_floating-point_format)<br>
-
-
