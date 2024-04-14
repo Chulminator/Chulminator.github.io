@@ -169,7 +169,7 @@ However, the selection of an appropriate initial point is crucial, as an unsuita
 
 <br>
 <p align="center">
-<iframe src="https://drive.google.com/file/d/1FQiO_bkncdo9IsySqG29QBmQtIDX1QM1/preview" width=" 349" height="280" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1FLpdI0YKlPo4HSXpbqE8rVBRhhlyhQcS/preview" width=" 349" height="280" allow="autoplay"></iframe>
   <br>
   <em>Figure 2. Divergence due to the inappropriate starting point</em>
 </p>
