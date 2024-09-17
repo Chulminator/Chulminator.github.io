@@ -2,7 +2,7 @@
 title: How to integrate in the computer world
 author: chulmin
 date: 2024-03-10 00:00:00 -0500
-categories: [Numerical computing]
+categories: [Algorithm, Numerical computing]
 tags: [Numerical analysis, Numerical integration, simpson, trapezoid, gauss point, Gauss quadrature, Gauss, integral]
 math: true
 ---

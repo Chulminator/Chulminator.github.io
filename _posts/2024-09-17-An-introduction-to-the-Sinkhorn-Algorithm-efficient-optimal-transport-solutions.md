@@ -1,8 +1,8 @@
 ---
 title: An introduction to the Sinkhorn Algorithm - efficient optimal transport solutions
 author: chulmin
-date: 2024-09-17 00:00:00 -0500
-categories: [Algorithm]
+date: 2024-09-16 00:00:00 -0500
+categories: [Algorithm, Numerical computing]
 tags: [Sinkhorn, algorithm, optimal transport]
 math: true
 ---
