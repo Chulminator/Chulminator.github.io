@@ -2,7 +2,7 @@
 title: How does a computer store numbers
 author: chulmin
 date: 2024-03-27 00:00:00 -0500
-categories: [Numerical computing]
+categories: [Algorithm, Numerical computing]
 tags: [Numerical analysis, Floating number]
 math: true
 ---

@@ -2,7 +2,7 @@
 title: Function template
 author: chulmin
 date: 2024-04-24 00:00:00 -0500
-categories: [c++]
+categories: [C++]
 tags: [Function template, c++]
 ---
 

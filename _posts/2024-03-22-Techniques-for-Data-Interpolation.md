@@ -2,7 +2,7 @@
 title:  Techniques for Data Interpolation
 author: chulmin
 date: 2024-03-22 00:00:00 -0500
-categories: [Numerical computing]
+categories: [Algorithm, Numerical computing]
 tags: [Numerical analysis, Lagrange Interpolation, natural cubic spline]
 math: true
 ---

@@ -2,7 +2,7 @@
 title: Root finidng method
 author: chulmin
 date: 2024-04-12 00:00:00 -0500
-categories: [Numerical computing]
+categories: [Algorithm, Numerical computing]
 tags: [Numerical analysis, Bisection method, Newton method]
 math: true
 ---
