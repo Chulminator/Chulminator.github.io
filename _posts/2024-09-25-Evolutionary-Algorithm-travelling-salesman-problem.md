@@ -1,7 +1,7 @@
 ---
 title: Evolutionary Algorithm (EA) - travelling salesman problem (TSP)
 author: chulmin
-date: 2024-09-17 00:00:00 -0500
+date: 2024-09-25 00:00:00 -0500
 categories: [Algorithm, Numerical computing]
 tags: [travelling salesman problem, TSP, Evolutionary Algorithm, Genetic Algorithm, EA, GA]
 math: true
