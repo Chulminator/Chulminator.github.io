@@ -1,8 +1,9 @@
 ---
 title: An introduction to the Sinkhorn Algorithm - efficient optimal transport solutions
+description: A simple and clear explaniation of Sinkhorn algorhtim.
 author: chulmin
 date: 2024-09-17 00:00:00 -0500
-categories: [Algorithm, Numerical computing]
+categories: [Algorithm, Optimal transport]
 tags: [Sinkhorn, algorithm, optimal transport]
 math: true
 ---
@@ -287,10 +288,11 @@ class SinkhornDistance(nn.Module):
 ```
 
 ## Reference
-https://regularize.wordpress.com/2015/09/17/calculating-transport-plans-with-sinkhorn-knopp/
-https://dfdazac.github.io/sinkhorn.html
-https://www.pragmatic.ml/sparse-sinkhorn-attention/n
-https://amsword.medium.com/a-simple-introduction-on-sinkhorn-distances-d01a4ef4f085
-Cuturi, M., 2013. Sinkhorn distances: Lightspeed computation of optimal transport. Advances in neural information processing systems
+- [https://github.com/Chulminator/SinkhornDistance](https://github.com/Chulminator/SinkhornDistance)
+- [https://regularize.wordpress.com/2015/09/17/calculating-transport-plans-with-sinkhorn-knopp/](https://regularize.wordpress.com/2015/09/17/calculating-transport-plans-with-sinkhorn-knopp/)
+- [https://dfdazac.github.io/sinkhorn.html](https://dfdazac.github.io/sinkhorn.html)
+- [https://www.pragmatic.ml/sparse-sinkhorn-attention/n](https://www.pragmatic.ml/sparse-sinkhorn-attention/n)
+- [https://amsword.medium.com/a-simple-introduction-on-sinkhorn-distances-d01a4ef4f085](https://amsword.medium.com/a-simple-introduction-on-sinkhorn-distances-d01a4ef4f085)
+- [Cuturi, M., 2013. Sinkhorn distances: Lightspeed computation of optimal transport. Advances in neural information processing systems](https://arxiv.org/pdf/1306.0895)
 
 

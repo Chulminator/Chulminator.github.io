@@ -1,9 +1,10 @@
 ---
-title: Recasting material constitutive model using Graph Neural Network
+title: Recasting material constitutive model using Graph Neural Network (GNN)
+description: Recasting the behavior of history-dependent constitutive material model using Graph neural network.
 author: chulmin
 date: 2024-09-16 00:00:00 -0500
-categories: [GNN]
-tags: [GNN, PyG, constitutive model]
+categories: [Artificial intelligence, GNN]
+tags: [GNN, PyG, constitutive model, graph neural network, Pytorch]
 math: true
 ---
 
@@ -95,6 +96,6 @@ As shown in Figure 5, the graph neural network could effectively capture the beh
 - Sobolev training enhances the quality of training by imposing physical laws into the neural networks
 
 ## Reference
-https://pytorch-geometric.readthedocs.io/en/latest/
+- [https://pytorch-geometric.readthedocs.io/en/latest/](https://pytorch-geometric.readthedocs.io/en/latest/)
 
 

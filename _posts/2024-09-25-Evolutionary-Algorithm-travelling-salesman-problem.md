@@ -1,8 +1,9 @@
 ---
 title: Evolutionary Algorithm (EA) - travelling salesman problem (TSP)
+description: An app to visualize the evolutionary algorithm to solve travelling salesman problem (TSP)
 author: chulmin
 date: 2024-09-25 00:00:00 -0500
-categories: [Algorithm, Numerical computing]
+categories: [Artificial intelligence, Evolutionary Algorithm]
 tags: [travelling salesman problem, TSP, Evolutionary Algorithm, Genetic Algorithm, EA, GA]
 math: true
 ---
@@ -108,6 +109,7 @@ As shown in the result, chromosomes from elitism consistently occupy the top ran
 
 
 ## Reference
-[Chromosome picture source](https://medium.com/@ejamil_62933/today-in-medical-history-8-august-f8e7a1375ece) 
+- [TSP-Visualizer](https://github.com/Chulminator/EvolutionaryAlgorithm-TSP-Visualizer)
+- [Chromosome picture source](https://medium.com/@ejamil_62933/today-in-medical-history-8-august-f8e7a1375ece) 
 
 

@@ -1,8 +1,8 @@
 ---
-title: PyFEM
+title: PyFEM - elastoplasticity
 author: chulmin
 date: 2024-09-15 00:00:00 -0500
-categories: [FEM]
+categories: [FEM, Elasto-plasticity]
 tags: [FEM, Finite element method, ElastoPlasticity]
 math: true
 ---
