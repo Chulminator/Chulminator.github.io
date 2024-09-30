@@ -2,7 +2,7 @@
 title: Lambda expressions
 author: chulmin
 date: 2024-04-25 00:00:00 -0500
-categories: [C++]
+categories: [Programming language, C++]
 tags: [lambda expression, c++]
 ---
 

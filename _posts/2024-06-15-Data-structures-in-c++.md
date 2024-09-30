@@ -2,7 +2,7 @@
 title: Data structures in c++
 author: chulmin
 date: 2024-06-15 00:00:00 -0500
-categories: [C++]
+categories: [Programming language, C++]
 tags: [Data structure, vector, stack, queue, set, array, map, c++]
 math: true
 ---
