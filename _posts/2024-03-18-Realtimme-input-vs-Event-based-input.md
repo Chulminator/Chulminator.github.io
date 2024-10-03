@@ -2,7 +2,7 @@
 title: Realtime input vs Event-based input
 author: chulmin
 date: 2024-03-18 00:00:00 -0500
-categories: [SFML, Introduction]
+categories: [Game, Miscellaneous Topics]
 tags: [SFML, game, 2D, input, realtime, event-based]
 ---
 

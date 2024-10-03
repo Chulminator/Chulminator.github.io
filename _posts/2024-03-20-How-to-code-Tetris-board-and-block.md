@@ -2,7 +2,7 @@
 title: How to code tetris board and block?
 author: chulmin
 date: 2024-03-20 00:00:00 -0500
-categories: [SFML, Tetris]
+categories: [Game, SFML, Tetris]
 tags: [SFML, game, 2D, Tetris, block, board]
 ---
 

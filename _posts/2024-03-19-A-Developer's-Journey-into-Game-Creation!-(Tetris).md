@@ -2,7 +2,7 @@
 title: A Developer's Journey into Game Creation! (Tetris)
 author: chulmin
 date: 2024-03-19 00:00:00 -0500
-categories: [SFML, Tetris]
+categories: [Game, SFML, Tetris]
 tags: [SFML, game, 2D, Tetris]
 ---
 

@@ -2,7 +2,7 @@
 title: Randomness in game
 author: chulmin
 date: 2024-03-21 00:00:00 -0500
-categories: [SFML, Tetris]
+categories: [Game, Miscellaneous Topics]
 tags: [SFML, game, 2D, class]
 ---
 
