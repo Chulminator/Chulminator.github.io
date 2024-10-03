@@ -61,6 +61,9 @@ Elitism is a technique used in evolutionary algorithms to ensure that the best i
 To maintain genetic diversity within the population, some of the chromosomes in each generation are generated randomly. This prevents the population from converging prematurely to a local optimum and introduces fresh genetic material, which can help the algorithm escape stagnation. The introduction of new, randomly generated chromosomes ensures that the evolutionary process continues to explore a broad range of possible solutions.
 
 ## Execution example
+
+{% include embed/youtube.html id='3l-Ny6-VVAk' %}
+
 ### Circle ( Home page )
 TSP with cities positioned on a circle is a common benchmark problem because it is a well-defined convex optimization problem with an analytical solution. The optimal route for cities arranged in a circle is simply the circumference, calculated as $2\pi R$, where $R$ is the radius of the circle.
 
