@@ -20,7 +20,10 @@ Games are actively engaging multimedia experiences. While the game engine is a c
 - My wife generously contributed her voice for sound effects.
 - [Taira Komori Sound Effects](https://taira-komori.jpn.org/playing01kr.html)
 - [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/)
+- [Kenney](https://www.kenney.nl/)
 
+### Font
+- [Font meme](https://fontmeme.com/)
 
 ### Sprites
 
@@ -34,6 +37,6 @@ In game development, sprites are essential for creating engaging visuals and enh
 - [Itch.io Game Assets - Sprites](https://itch.io/game-assets/tag-sprites)
 - [OpenGameArt](https://opengameart.org/)
 
-## Remake
+## Remark
 - Ensure that the resources you use are copyright-free.
 - I will update this article whenever I find additional useful resources.
