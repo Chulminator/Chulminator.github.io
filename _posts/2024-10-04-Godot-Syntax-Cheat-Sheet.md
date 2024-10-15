@@ -1,7 +1,7 @@
 ---
 title: Godot - Syntax cheat sheet
 author: chulmin
-date: 2024-10-03 00:00:00 -0500
+date: 2024-10-04 00:00:00 -0500
 categories: [Game, Godot]
 tags: [Game, Godot, syntax]
 math: true
