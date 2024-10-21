@@ -3,7 +3,7 @@ title: NeetCode - Combination Target Sum
 author: chulmin
 date: 2024-10-17 00:00:00 -0500
 categories: [Daily Smashing Through Random Problems, Neetcode]
-tags: [coding test, c++, neetcode]
+tags: [coding test, c++, neetcode, Backtracking, Combination Target Sum]
 math: true
 ---
 
@@ -56,4 +56,4 @@ public:
 
 
 ## Reference
-- [Course schedule](https://neetcode.io/problems/combination-target-sum)
+- [Combination Target Sum](https://neetcode.io/problems/combination-target-sum)

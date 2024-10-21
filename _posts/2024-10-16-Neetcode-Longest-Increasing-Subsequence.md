@@ -2,8 +2,8 @@
 title: NeetCode - Longest Increasing Subsequence
 author: chulmin
 date: 2024-10-16 00:00:00 -0500
-categories: [Smashing Through Random Problems, Neetcode]
-tags: [coding test, c++, neetcode]
+categories: [Smashing Through Random Problems, Neetcode, Longest Increasing Subsequence]
+tags: [coding test, c++, neetcode, DP]
 math: true
 ---
 

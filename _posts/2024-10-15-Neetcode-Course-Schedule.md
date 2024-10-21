@@ -2,7 +2,7 @@
 title: NeetCode - Course Schedule
 author: chulmin
 date: 2024-10-15 00:00:00 -0500
-categories: [Daily Smashing Through Random Problems, Neetcode]
+categories: [Daily Smashing Through Random Problems, Neetcode, Course Schedule]
 tags: [coding test, c++, neetcode]
 math: true
 ---
